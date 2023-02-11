@@ -1,1 +1,1 @@
-if UseSounds == true then print("true") else print("Not true") end
+if _G.UseSounds == true then print("true") else print("Not true") end
